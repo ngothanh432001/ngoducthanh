@@ -18,3 +18,4 @@ int main(){
 	printf("%s",str1);
 	
 }
+hey this is for tutorlari purose
